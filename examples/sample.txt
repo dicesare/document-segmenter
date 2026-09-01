@@ -1,0 +1,7 @@
+# Project overview
+
+This synthetic brief demonstrates document segmentation without exposing private data.
+
+## Scope
+
+Extract titles and paragraphs, then export normalized JSON.
